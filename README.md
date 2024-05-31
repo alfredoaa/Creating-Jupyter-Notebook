@@ -1,2 +1,2 @@
 # Creating-Jupyter-Notebook
-Creating Jupyter Notebook for Data Sciences Assignment
+Creating a Jupyter Notebook for Data Sciences Assignment
